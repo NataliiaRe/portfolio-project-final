@@ -71,13 +71,13 @@ p {
   padding: 20px 40px;
 }
 
-.about-hero h1 {
+.contant-container h1 {
   font-weight: bold;
   font-size: 3.5rem;
   line-height: 1.2;
 }
 
-.about-hero h2 {
+.contant-container h2 {
   font-family: var(--default-font-family);
   font-weight: normal;
   font-size: 1.3rem;
@@ -85,11 +85,11 @@ p {
   color: #272142;
 }
 
-.about-hero {
+.contant-container {
   padding: 100px 20px;
 }
 
-.about-hero-content {
+.content {
   padding: 40px;
 }
 
@@ -122,11 +122,11 @@ p {
     margin-top: 40px;
   }
 
-  .about-hero {
+  .contant-container {
     padding: 0;
   }
 
-  .about-hero-content {
+  .content {
     text-align: center;
   }
 }
